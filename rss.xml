@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pakistan]]></title>
+        <description><![CDATA[Pakistan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Apr 2016 14:50:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dirty Old Men of Pakistan]]></title>
+            <description><![CDATA[<article><h1>The Dirty Old Men of Pakistan</h1><p>By Mohammed Hanif</p></article>]]></description>
+            <link>undefinedthe-dirty-old-men-of-pakistan/index.html</link>
+            <guid isPermaLink="false">f111d70e-af57-4130-afee-04e5d1b5768f</guid>
+            <pubDate>Sun, 03 Apr 2016 14:50:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
